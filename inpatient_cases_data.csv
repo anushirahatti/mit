@@ -1,0 +1,74 @@
+Gender,Age,Clinical classification,Comorbidities,Cardiovascular and cerebrovascular disease, Endocrine system disease,Malignant tumor,Respiratory system disease,Digestive system disease,Renal disease,Liver disease,Fever,Cough,Chest tightness,Fatigue,Diarrhea,Other Signs and Symptoms,Clinical outcome,COVID-19 RNA clearance,Chest CT findings at discharge
+Male,47,Heavy,N,N,N,N,N,N,N,N,Y,Y,Y,Y,Y,N,"Aggravated,turn to ICU",N,Advances
+Female,53,Ordinary,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,N,Improved and discharge,Y,Absorption
+Female,57,Ordinary,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,No change
+Male,58,Heavy,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,"Aggravated,transfer to superior hospital",N,Advances
+Male,54,Ordinary,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,N,Improved and discharge,Y,Absorption
+Female,57,Ordinary,Y,Y,N,N,N,N,N,N,Y,N,N,N,Y,Y,Improved and discharge,Y,Absorption
+Male,21,Ordinary,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Female,63,Heavy,Y,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,Improved and discharge,Y,Absorption
+Female,68,Heavy,Y,N,N,Y,N,N,N,N,Y,Y,Y,N,N,N,Died,N,Advances
+Male,62,Ordinary,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Improved and discharge,Y,Absorption
+Female,81,Heavy,Y,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,Improved and discharge,Y,Absorption
+Male,42,Ordinary,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Male,23,Ordinary,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Male,74,Ordinary,Y,Y,N,N,N,N,N,N,N,Y,N,N,N,Y,Improved and discharge,Y,Absorption
+Male,74,Ordinary,Y,Y,N,N,N,N,N,N,Y,N,N,N,N,N,Improved and discharge,Y,Absorption
+Male,50,Ordinary,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Male,62,Heavy,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,N,Improved and discharge,Y,Absorption
+Female,53,Heavy,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,No change
+Male,71,Ordinary,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,Y,Improved and discharge,Y,Absorption
+Male,35,Ordinary,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Improved and discharge,Y,Absorption
+Female,42,Ordinary,N,N,N,N,N,N,N,N,Y,Y,N,N,N,Y,Improved and discharge,Y,Absorption
+Male,36,Ordinary,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Female,26,Ordinary,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Male,62,Ordinary,Y,Y,Y,N,N,N,N,N,Y,Y,N,N,Y,N,Improved and discharge,Y,Absorption
+Male,71,Heavy,Y,N,N,Y,N,N,N,N,N,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Male,49,Ordinary,N,N,N,N,N,N,N,N,N,Y,Y,N,N,N,Improved and discharge,Y,Absorption
+Female,66,Heavy,Y,N,Y,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Male,69,Heavy,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,N,Improved and discharge,Y,Absorption
+Male,23,Ordinary,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Male,28,Ordinary,Y,N,N,N,N,N,N,N,Y,N,N,N,N,N,Improved and discharge,Y,Advances
+Male,69,Heavy,Y,Y,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Female,48,Ordinary,N,N,N,N,N,N,N,N,Y,Y,N,Y,N,N,Improved and discharge,Y,Absorption
+Female,47,Ordinary,N,N,N,N,N,N,N,N,Y,N,N,N,N,Y,Improved and discharge,Y,Absorption
+Male,35,Ordinary,N,N,N,N,N,N,N,N,Y,Y,N,N,N,Y,Improved and discharge,Y,Absorption
+Male,69,Ordinary,Y,N,N,N,N,N,Y,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Male,45,Ordinary,Y,N,N,N,N,N,N,Y,Y,Y,Y,N,N,N,Improved and discharge,Y,Absorption
+Female,54,Ordinary,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Male,51,Ordinary,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Male,46,Ordinary,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Improved and discharge,Y,Absorption
+Female,43,Heavy,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,Y,Improved and discharge,Y,Absorption
+Female,45,Ordinary,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Female,53,Ordinary,N,N,N,N,N,N,N,N,Y,Y,N,N,Y,Y,Improved and discharge,Y,No change
+Female,77,Heavy,Y,Y,Y,N,N,N,N,N,Y,Y,N,Y,N,Y,Died,N,Advances
+Female,73,Heavy,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,N,Improved and discharge,Y,Absorption
+Female,64,Ordinary,Y,Y,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Female,57,Heavy,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Male,49,Ordinary,N,N,N,N,N,N,N,N,Y,Y,N,Y,Y,N,Improved and discharge,Y,Absorption
+Male,68,Ordinary,Y,Y,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Female,41,Heavy,Y,N,N,Y,N,N,N,N,Y,Y,Y,Y,N,N,Improved and discharge,Y,Absorption
+Female,71,Ordinary,N,N,N,N,N,N,N,N,N,Y,N,N,N,N,Improved and discharge,Y,No change
+Female,59,Heavy,N,N,N,N,N,N,N,N,Y,Y,Y,N,N,N,Improved and discharge,Y,Absorption
+Male,74,Ordinary,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Female,36,Ordinary,N,N,N,N,N,N,N,N,Y,N,N,N,N,N,Improved and discharge,Y,Absorption
+Female,36,Ordinary,N,N,N,N,N,N,N,N,N,N,N,Y,N,N,Improved and discharge,Y,Absorption
+Male,75,Heavy,Y,N,N,N,N,Y,N,N,Y,Y,Y,N,N,N,Improved and discharge,Y,Absorption
+Male,61,Heavy,Y,Y,N,N,N,N,N,N,Y,Y,Y,N,N,N,Improved and discharge,Y,Absorption
+Male,65,Ordinary,N,N,N,N,N,N,N,N,Y,N,Y,N,N,N,Improved and discharge,Y,Absorption
+Male,58,Heavy,Y,Y,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Male,75,Heavy,N,N,N,N,N,N,N,N,Y,N,N,Y,N,N,Improved and discharge,Y,Absorption
+Female,69,Heavy,Y,Y,N,Y,N,N,N,N,Y,N,Y,N,N,N,Improved and discharge,Y,Absorption
+Male,48,Ordinary,Y,Y,Y,N,N,N,N,N,N,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Female,62,Ordinary,Y,N,N,N,Y,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Female,65,Ordinary,N,N,N,N,N,N,N,N,N,Y,Y,N,Y,N,Improved and discharge,Y,Absorption
+Female,62,Ordinary,Y,Y,N,N,N,N,N,N,Y,N,N,N,Y,N,Improved and discharge,Y,Absorption
+Female,67,Heavy,Y,N,Y,N,N,N,N,N,Y,N,N,N,N,N,Improved and discharge,Y,Absorption
+Male,42,Ordinary,Y,N,Y,N,N,N,N,N,Y,N,N,N,Y,N,Improved and discharge,Y,Absorption
+Female,68,Heavy,Y,N,Y,N,N,N,N,N,Y,Y,Y,N,N,N,Improved and discharge,Y,Absorption
+Male,74,Ordinary,Y,Y,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Female,30,Ordinary,N,N,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Female,59,Ordinary,Y,N,Y,N,N,N,N,N,N,Y,N,Y,N,N,Improved and discharge,Y,Absorption
+Female,87,Ordinary,Y,Y,N,N,N,N,N,N,N,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Female,56,Ordinary,Y,Y,N,N,N,N,N,N,Y,Y,N,N,N,N,Improved and discharge,Y,Absorption
+Female,54,Ordinary,Y,Y,N,N,N,N,N,N,Y,N,Y,N,N,N,Improved and discharge,Y,Absorption
