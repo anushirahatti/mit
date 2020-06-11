@@ -1,4 +1,4 @@
-# mit
+# mit (Epidemiology of COVID-19: Identifying protective factors to help prevent the spread of virus)
 
 #### Association Rules Mining Implementation: https://github.com/anushirahatti/mit/blob/master/covid_inpatient_cases.ipynb
 #### Data Analysis: https://github.com/anushirahatti/mit/blob/master/covid_inpatient_cases_updated.ipynb
